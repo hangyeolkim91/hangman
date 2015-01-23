@@ -123,7 +123,7 @@ def checkWrongAnswer(missedLetters, secretWord):
             
 def main():
     """Main application entry point."""
-    print('H A N G Y E O L')
+    print('H A N G Y E O Laaaaaaaaaaaaaaaaaaaaaaaaaaa')
     missedLetters = ''
     correctLetters = ''
     gameSucceeded = False
